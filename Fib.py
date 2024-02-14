@@ -13,7 +13,7 @@ def fibonacci(n):
 
 # Call the fibonacci function with argument 5 to get the first 5 Fibonacci numbers
 fibonacci_numbers = fibonacci(20)
-
+#grammarly is so annoying
 
 # Print the first 5 Fibonacci numbers
 print("The first 5 Fibonacci numbers are:", fibonacci_numbers)
